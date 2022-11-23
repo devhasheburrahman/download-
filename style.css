@@ -1,0 +1,24 @@
+body .hasib {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.nishad {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+
+
+.center {
+    text-align: center;
+}
+
+#toma {}
